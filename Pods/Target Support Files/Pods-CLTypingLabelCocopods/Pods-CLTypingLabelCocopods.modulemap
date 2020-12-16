@@ -1,0 +1,6 @@
+framework module Pods_CLTypingLabelCocopods {
+  umbrella header "Pods-CLTypingLabelCocopods-umbrella.h"
+
+  export *
+  module * { export * }
+}
